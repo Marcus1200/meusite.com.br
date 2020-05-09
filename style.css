@@ -1,0 +1,38 @@
+*{
+ font-family: monospace;
+ box-sizing: border-box;
+ max-width: 100%;
+ margin: 0;
+ padding: 0;
+}
+html{
+   display: flex;
+  padding: 1em;
+   justify-content: center;
+   height: 100%;
+   align-items: center;
+   overflow: auto;
+  
+
+  
+}
+body{
+    width: 25em;
+    max-width: 90%;
+   font-size: 1.5em;
+}
+  button{
+    width: 60px;
+    height: 20px;
+    font-size: 10px;
+    
+  }
+
+
+  
+  
+
+
+
+
+  
